@@ -21,12 +21,6 @@ This repository centralizes replication packages for research on innovation.
 
 ---
 
-## 🚀 Contributing
-
-If you would like to add replication packages on innovation, please open a pull request or get in touch.
-
----
-
 ## 🔒 Additional Information
 
 Our private repository contains additional code and datasets related to **innovation, productivity, and technological change**.  

@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Innovation & Productivity Replication Packages</h1>
+  <h1 align="center">Innovation Replication Packages</h1>
   <p align="center">
     A curated collection of replication code and datasets for papers on innovation, technology, and productivity.
   </p>

@@ -17,6 +17,7 @@ This repository centralizes replication packages for research on innovation.
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Ajay Agrawal, Avi Goldfarb | *Restructuring Research: Communication Costs and the Democratization of University Innovation* | *American Economic Review* | 2008 | [Open](https://doi.org/10.3886/E113260V1) |
 | Philippe Aghion, Antonin Bergeaud, John Van Reenen | *The Impact of Regulation on Innovation* | *American Economic Review* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/192169/version/V1/view) |
 | Matthew Grennan, Robert J. Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/231417/version/V1/view) |
 

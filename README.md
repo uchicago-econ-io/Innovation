@@ -17,6 +17,7 @@ This repository centralizes replication packages for research on innovation.
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Petra Moser | *How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World’s Fairs* | *American Economic Review* | 2005 | [Open](https://doi.org/10.3886/E116055V1) |
 | Shubham Chaudhuri, Pinelopi K. Goldberg, Panle Jia | *Estimating the Effects of Global Patent Protection in Pharmaceuticals: A Case Study of Quinolones in India* | *American Economic Review* | 2006 | [Open](https://doi.org/10.3886/E116242V1) |
 | Ajay Agrawal, Avi Goldfarb | *Restructuring Research: Communication Costs and the Democratization of University Innovation* | *American Economic Review* | 2008 | [Open](https://doi.org/10.3886/E113260V1) |
 | Philippe Aghion, Antonin Bergeaud, John Van Reenen | *The Impact of Regulation on Innovation* | *American Economic Review* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/192169/version/V1/view) |

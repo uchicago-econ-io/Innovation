@@ -15,6 +15,8 @@ This repository centralizes replication packages for research on innovation.
 
 ## 📦 Replication Packages
 
+## Top 5
+
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Petra Moser | *How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World’s Fairs* | *American Economic Review* | 2005 | [Open](https://doi.org/10.3886/E116055V1) |
@@ -22,6 +24,14 @@ This repository centralizes replication packages for research on innovation.
 | Ajay Agrawal, Avi Goldfarb | *Restructuring Research: Communication Costs and the Democratization of University Innovation* | *American Economic Review* | 2008 | [Open](https://doi.org/10.3886/E113260V1) |
 | Matthew Grennan, Robert J. Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/231417/version/V1/view) |
 | Philippe Aghion, Antonin Bergeaud, John Van Reenen | *The Impact of Regulation on Innovation* | *American Economic Review* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/192169/version/V1/view) |
+
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Lisandra Flach, Michael Irlacher | *Product versus Process: Innovation Strategies of Multi-Product Firms* | *American Economic Journal: Microeconomics* | 2015 | [Open](https://doi.org/10.3886/E114349V1) |
+| Barbara Biasi, Petra Moser | *Effects of Copyrights on Science: Evidence from the WWII Book Republication Program* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E118468V2) |
+| Xuelin Li, Martin Szydlowski | *Aggressive Pivots and Entrepreneurial Skill* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E202824V1) |
 
 ---
 

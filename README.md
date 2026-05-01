@@ -69,6 +69,13 @@ This repository centralizes replication packages for research on innovation.
 | Barbara Biasi, Petra Moser | *Effects of Copyrights on Science: Evidence from the WWII Book Republication Program* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E118468V2) |
 | Xuelin Li, Martin Szydlowski | *Aggressive Pivots and Entrepreneurial Skill* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E202824V1) |
 
+
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Grega Smrkolj, Florian Wagener | *Research among copycats: R&D, spillovers, and feedback strategies* | *International Journal of Industrial Organization* | 2019 | [Open](https://data.mendeley.com/datasets/w36fyf7gf3/1) |
+
 ---
 
 ## 🔒 Additional Information
